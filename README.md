@@ -11,7 +11,7 @@ Core components of a proprietary trading strategy, focusing on market microstruc
    - Visualizes order flow skews.  
 2. [Liquidity Detection](liquidity_detection_research.ipynb)  
    - Identifies liquidity hotspots using clustering.  
-3. [Strategy Framework](notebooks/3_strategy_framework.ipynb)  
+3. [Strategy Framework](strategy_framework.ipynb)  
    - Example backtest with placeholder logic.  
 
 ## Data  
